@@ -89,5 +89,6 @@ if st.button("Bereken opbouw"):
     st.markdown("""
     ⚠️ **Disclaimer:**  
     - Dit is een indicatie op basis van historische gemiddelden.  
-    - Werkelijke rendementen kunnen hoger of lager uitv
-
+    - Werkelijke rendementen kunnen hoger of lager uitvallen.  
+    - Deze tool houdt geen rekening met belastingen, inflatie of kosten.
+    """)
